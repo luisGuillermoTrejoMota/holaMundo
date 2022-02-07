@@ -1,5 +1,5 @@
 # holaMundo
-Mi primer repositorio de prueba
+Mi primer repositorio
 
 
 Autor Luis Trejo
